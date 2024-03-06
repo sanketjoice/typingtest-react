@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/typingtest-react/static/css/main.a8ede34c.css",
+    "main.js": "/typingtest-react/static/js/main.ef704200.js",
+    "index.html": "/typingtest-react/index.html",
+    "main.a8ede34c.css.map": "/typingtest-react/static/css/main.a8ede34c.css.map",
+    "main.ef704200.js.map": "/typingtest-react/static/js/main.ef704200.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8ede34c.css",
+    "static/js/main.ef704200.js"
+  ]
+}
